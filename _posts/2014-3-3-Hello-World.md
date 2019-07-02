@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Digital Slowmad!
+title: What is a Digital Slowmad?
 ---
 
-What is a digital slowmad?
-
-Well, Essentially...
+A few months ago, I'd never heard the term. 
 
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
