@@ -17,7 +17,3 @@ I'm a bit different. No jetsetting for me; I'm touring the U.S. by car. I'm hard
 ### You're doing this solo?
 
 Yes!
-
-### Contact me
-
-[keeganhughes12@gmail.com](mailto:keeganhughes12@gmail.com)
