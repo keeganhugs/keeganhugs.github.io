@@ -14,7 +14,7 @@ Things I'm doing/did:
 * Drunk Shakespeare comedy
 * Navy Pier (rode the wheel and watched the sunset)
 * Museum of Contemporary Art
-* SkyDeck (both daytime and nighttime)
+* SkyDeck (both day and night)
 * Museum of Surgical Science
 * Alder Planetarium
 * Museum of Science and Industry
@@ -22,6 +22,9 @@ Things I'm doing/did:
 * Deep dish: Giordano's, Lou Malnati's, Gino's East
 * Donuts: Firecakes, Stan's, Doughnut Vault
 
-"Hold up," you might say, "Spread over 11 days, that's not much!" And you're right. I came to Chicago for a staff retreat and extended my stay, covering the extra cost myself. So at the retreat's close I traded the hotel for a hostel. Previously I hated hosteling in the U.S., but Chicago has a whopping 17% hotel tax on already-pricy hotels. Thankfully HI Chicago Hostel proved my bias wrong - highly recommend. Big lockers in the room, free activities, good location.
+"Hold up," you might say, "Spread over 11 days, that's not much!" And you're right. I came to Chicago for a staff retreat and extended my stay, covering the extra cost myself. At the retreat's close I traded the hotel for a hostel. Previously I hated hosteling in the U.S., but Chicago has a whopping 17% hotel tax on already-pricy hotels. Thankfully HI Chicago Hostel proved my bias wrong - highly recommend. Big lockers in the room, free activities, good location.
 
-I bought the Chicago CityPASS, which locked me in to certain activities (Shedd, Field, SkyDeck, Alder, and Industry). I have mixed feelings about passes. I probably would have structured my trip differently - probably Shedd, Toby Jug Museum, Leather Archives and Museum, the Botanic Garden, the Japanese Garden, and 
+I bought the Chicago CityPASS, which locked me in to certain activities: Shedd, Field, SkyDeck(x2), Alder, and Industry. I have mixed feelings about passes. Left to my own devices, I'd structure my trip differently - Shedd, SkyDeck(x1), Leather Archives Museum, Toby Jug Museum, the Botanic Garden, the Japanese Garden. But I was frantically doing math while queueing for Shedd. Shedd alone was 1/3 the cost of a CityPASS - and think how much VALUE I'd lose if I ever want to visit those attractions! 
+
+"If I ever want to visit those attractions." This fomo-logic constantly trips me up. And fomo is the enemy of effective traveling. Don't get me wrong; I'm enjoying all the CityPASS unlocked. But it's about prioritization. 11 days in Chicago (even less because work) is. not. much.
+
