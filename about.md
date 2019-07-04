@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Keegan, a solo female digital slowmad. I work at a baller nonprofit helping election administrators run great elections. If you're here for elections content, see my Twitter and subscribe to ELECTricity. If you're here for travel stuffs, you're in the right place.
 
-### More Information
+### A digital what-now? 
 
-A place to include any other types of information that you'd like to include about yourself.
+Slowmad!
+
+Digital Nomads travel the world while working from their computers. They often spend a few days in a foreign city before moving on, all while freelancing or travel blogging or consulting or who-knows-what. They typically set their own hours, work from cafés, and obsess over minimalist travel tech.
+
+I'm a bit different. No jetsetting for me; I'm touring the U.S. in my car. I'm hardly traveling lightly - I mean, I have a *bread machine*. I'm not "my own boss," I have a regular job, it's just remote. I stay in AirBnBs. I switch places once a month - a little slower than your typical nomad. Hence, "Slowmad."
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[keeganhughes12@gmail.com](mailto:keeganhughes12@gmail.com)
