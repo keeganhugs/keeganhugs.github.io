@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chicago Mini-Adventure"
+title:  Chicago Mini-Adventure
 ---
 
 Before officially slowmading, I get 11 days in ever-exciting Chicago. More "vacation" than "travel," this mini-adventure has been
