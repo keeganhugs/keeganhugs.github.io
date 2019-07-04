@@ -13,5 +13,3 @@ I’ve done Giordano’s, Lou Malnati’s, and (in-progress) Gino’s East. I wa
 There’s a Netflix show called Samurai Gourmet that follows an elderly man who, finally retired, learns to eat alone in restaurants. The show links his aloneness with a new ability to truly appreciate food. Whether or not that happens for me, I’d like to emulate his courage. (He also hallucinates a drunk masterless samurai that gives life advice? Probably don’t need to emulate that.)
 
 Pizza results are in! In order, here we go:
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
